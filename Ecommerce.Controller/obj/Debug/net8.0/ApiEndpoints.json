@@ -1,0 +1,95 @@
+[
+  {
+    "ContainingType": "Ecommerce.Controller.Controllers.AdminController",
+    "Method": "GetAllCustomers",
+    "RelativePath": "api/Admin/GetAllCustomers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Ecommerce.Service.DTOs.ResponceDTOs.GenericApiResponceDTO\u00601[[System.Collections.Generic.List\u00601[[Ecommerce.Service.DTOs.ResponceDTOs.CustomerListDTO, Ecommerce.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Ecommerce.Controller.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginCredentialsDTO",
+        "Type": "Ecommerce.Service.DTOs.RequestDTOs.LoginCredentialsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Ecommerce.Service.DTOs.ResponceDTOs.GenericApiResponceDTO\u00601[[Ecommerce.Service.DTOs.ResponceDTOs.ResponseDTO, Ecommerce.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Ecommerce.Controller.Controllers.AuthController",
+    "Method": "UserRegister",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerData",
+        "Type": "Ecommerce.Service.DTOs.RequestDTOs.CustomerRegisterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Ecommerce.Service.DTOs.ResponceDTOs.GenericApiResponceDTO\u00601[[Ecommerce.Service.DTOs.ResponceDTOs.ResponseDTO, Ecommerce.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Ecommerce.Controller.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Ecommerce.Controller.WeatherForecast, Ecommerce.Controller, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
