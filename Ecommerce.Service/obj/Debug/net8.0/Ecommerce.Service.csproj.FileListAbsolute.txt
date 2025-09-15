@@ -1,0 +1,17 @@
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\bin\Debug\net8.0\Ecommerce.Service.deps.json
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\bin\Debug\net8.0\Ecommerce.Service.runtimeconfig.json
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\bin\Debug\net8.0\Ecommerce.Service.dll
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\bin\Debug\net8.0\Ecommerce.Service.pdb
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\bin\Debug\net8.0\Ecommerce.DAL.dll
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\bin\Debug\net8.0\Ecommerce.DAL.pdb
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerce.Service.csproj.AssemblyReference.cache
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerce.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerce.Service.AssemblyInfoInputs.cache
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerce.Service.AssemblyInfo.cs
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerce.Service.csproj.CoreCompileInputs.cache
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerc.B292E58B.Up2Date
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerce.Service.dll
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\refint\Ecommerce.Service.dll
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerce.Service.pdb
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerce.Service.genruntimeconfig.cache
+C:\Users\harih\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\ref\Ecommerce.Service.dll
